@@ -1,6 +1,7 @@
 # WebRTC Video-Calling-App
 This is a real-time video calling application built using WebRTC and React. You can easily initiate video calls with your friends, family, or colleagues directly from your web browser without any additional plugins or downloads.
 
+<img src="client/public/preview-app.png" alt="app-preview"> <br />
 
 ## Getting Started
 
