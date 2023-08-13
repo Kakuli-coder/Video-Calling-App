@@ -24,8 +24,24 @@ Follow these steps to get the app up and running on your local machine.
    ```
    cd Video-Calling-App
    ```
+3. Go to the client directory:
 
-3. Install the required dependencies:
+   ```
+   cd client
+   ```
+
+4. Install the required dependencies:
+
+   ```
+   npm install
+   ```
+5. Go to the server directory:
+
+   ```
+   cd server
+   ```
+
+6. Install the required dependencies:
 
    ```
    npm install
@@ -33,7 +49,13 @@ Follow these steps to get the app up and running on your local machine.
 
 ### Usage
 
-1. Start the development server:
+1. Start the client:
+
+   ```
+   npm start
+   ```
+
+1. Start the server:
 
    ```
    npm start
